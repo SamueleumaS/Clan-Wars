@@ -1,0 +1,137 @@
+/* Feel free to change any of the styling below!*/
+
+.title{
+  display:none;
+}
+
+body {
+    text-align: center;
+
+}
+
+img {
+    width: 350px;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+  display: none;
+
+}
+.buttons1{
+    display: flex;
+    justify-content: center;
+  display: none;
+
+}
+
+.buttons2{
+   display: flex;
+    justify-content: center;
+  display: none;
+
+
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.option-one-screen{
+  display:none;
+}
+
+.option-two-screen{
+  display:none;
+}
+button {
+    height: 40px;
+}
+.option-one-end{
+  display: none;
+}
+
+.option-two-end{
+  display: none;
+}
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
+.caveImage:hover{
+  width: 400px;
+}
+
+.enter{
+  display: flex;
+    justify-content: center;
+}
+
+.leave{
+  display: flex;
+    justify-content: center;
+}
+
+.title:hover{
+  background: #000;
+  color: #fff;
+  border-radius: 5px;
+}
+
+.option-one-end{
+  display: none;
+}
+
+.option-one-leave{
+  display:none;
+}
+
+.enemy{
+  display: none;
+}
+/* .option-one-screen{
+  display: none;
+} */
+
+
+/* When someone enters your game, you only want them to see the opening and the option buttons. The code below will use the display property to hide certain parts of the story. Remove the comments from the code below when you're ready for that step!*/
+/* 
+
+.story-opening{
+   display:none;
+}
+
+
+
+.buttons{
+   display:none;
+}
+
+.open-one-screen{
+   display:none;
+}
+
+
+.open-two-screen{
+   display:none;
+}
+ 
+
+.open-one-end{
+   display:none;
+}
+
+
+
+.open-two-end{
+   display:none;
+} */
